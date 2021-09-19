@@ -27,6 +27,10 @@ Used modules
 ## DEMO
 - See the following gif 
 - ![](demo/SpaceXInfo.gif)
+## on Loading Launch Info
+- ![](demo/Loading.png)
+## On Error Fetching Data
+- ![](demo/OnError.png)
 
 ## Authors
 - Ravi Bayyana
