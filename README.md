@@ -13,7 +13,7 @@ Features Implemented
 - Displays Recent 50 SpaceX Launch Information
 - Can filter by Launch Name
 - Can Sort by Launch Name and Date
-- Rocket detials can be view by clicking on the link
+- Rocket details can be viewed by clicking on the link
 
 Used modules
 - React
