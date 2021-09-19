@@ -26,7 +26,7 @@ Used modules
 
 ## DEMO
 - See the following gif 
-
+- ![](demo/SpaceXInfo.gif)
 
 ## Authors
 - Ravi Bayyana
